@@ -1,7 +1,4 @@
-  * { 
-    border: 1px solid red; 
-    outline-offset: -1px;  
-  }
+
 
 body {
     display: flex;
@@ -44,7 +41,7 @@ body {
 
 .secondary-text {
     display: flex;
-    size: 18px;
+    font-size: 18px;
     color: #E5E7EB;
     justify-content: center;
 }
@@ -102,7 +99,7 @@ body {
 .illustration-undertext {
     display: flex;
     padding: 2px;
-    size: 18px;
+    font-size: 18px;
     justify-content: center;
     align-items: center;
     color: #1f2937;
